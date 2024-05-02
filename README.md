@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Michelle-Rose
-A 26-year-old student at Whitiriea. I am in my final year of study for my Bachelor of Information Technology (BIT).
-Once I finish my studies I hope to be a product designer or UX UI Designer or a Front end developer. 
-I just cannot decide just yet, just keeping my options open.
-I am currently looking for a Summer internship for summer 2021 and/or a full-time role starting November 2021
+Dedicated and innovative UX Designer with a passion for creating intuitive and engaging digital experiences. Leveraging my background in user research, interaction design, and prototyping, I aim to collaborate with cross-functional teams to deliver products that delight users and drive business objectives. Committed to staying at the forefront of industry trends and technologies, I aspire to contribute my expertise to projects that positively impact both users and organisations.
+         
+I am currently looking for next full-time role starting May 2024
 
-- 👀 I’m interested in user experience design and info security
+- 👀 I’m interested in product and user experience design
 In my spare time, I make candles, read Marvel Comics and continuously rewatch the Marvel movies.
-I also enjoy playing video games on my Switch. BOTW, DQB2 and Animal Crossing are some of my favs
+I also enjoy playing video games on my Switch. BOTW, TOTK, DQB2 and Animal Crossing are some of my favs
 
 - 🌱 I’m currently learning Web app development using Node Express JS
 I am also doing my final school course being the Capstone Project. Where we are put into teams and given a real-world client's project.
