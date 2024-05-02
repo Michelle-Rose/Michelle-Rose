@@ -1,4 +1,5 @@
 👋 Hi, I’m @Michelle-Rose
+
 Dedicated and innovative UX Designer with a passion for creating intuitive and engaging digital experiences. Leveraging my background in user research, interaction design, and prototyping, I aim to collaborate with cross-functional teams to deliver products that delight users and drive business objectives. Committed to staying at the forefront of industry trends and technologies, I aspire to contribute my expertise to projects that positively impact both users and organisations.
 
 I am currently looking for next full-time role starting May 2024
